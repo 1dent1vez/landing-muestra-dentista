@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
-  <rect x="4" y="4" width="40" height="40" rx="12" fill="COLOR_SECUNDARIO" opacity="0.1"/>
-  <path d="M16 32h16M16 24h16M16 16h10" stroke="COLOR_SECUNDARIO" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <circle cx="31" cy="16" r="2" fill="COLOR_SECUNDARIO"/>
-</svg>
